@@ -31,7 +31,7 @@
     "web": "https://github.com/showdownjs/showdown"
   },
   "license": "BSD-3-Clause",
-  "main": "./dist/showdown.js",
+  "main": "./index.js",
   "scripts": {
     "test": "grunt test"
   },
